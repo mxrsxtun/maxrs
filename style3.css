@@ -1,0 +1,11 @@
+body {
+    font-family:fantasy;
+    background-image: linear-gradient(grey, white);
+}
+
+.link-header {
+	color: transparent;    
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(to right, purple, black);
+}
